@@ -1,0 +1,1 @@
+Flash the arduino sketch on an arduino board (tested with mega2560) then, connect it to the raspberry and launch the script. The arduino sketch sends JSON object on it's main serial port. The python script recieves that and converts is to disctionnary.
